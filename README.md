@@ -45,7 +45,7 @@ network and trains it on rr intervals from ecg signals.
         - output_all.csv- This files was created after preprocessing files in ehr_data and constructing features from them.
         The same traditional approaches(svm, knn, random forests) were applied on this.
   ## Code Contributor
-  Sourav kumar (souravk1113@gmail.com, sourav.kumar@philips.com)
+  Sourav kumar (souravk1113@gmail.com)
    
 
     
